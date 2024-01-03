@@ -1,2 +1,4 @@
 Sources and youtube links given at
 https://hnsws.blogspot.com/2023/10/blender-rendering-notes.html
+
+Blender file - LVM3Launch.blend
